@@ -29,7 +29,7 @@ In-memory and JSON storage were not durable; Redis was unnecessary for this scop
 npm install
 ```
 
-Create `.env`:
+Create `./config/.env.development`:
 
 ```env
 GEMINI_API_KEY=your_api_key
